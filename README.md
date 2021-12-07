@@ -1,3 +1,16 @@
+# THIS REPOSITORY IS FORK
+
+*ORIGINAL REPOSITORY IS* https://github.com/danielgtaylor/apisprout .
+
+It is stop to maintained since 2019. But it happens sometimes in open source project because software developer is very busy. 
+
+This repository will merging pull request and patch from original
+repository, and it will evolve on its own. I was created homebrew
+formula ( https://github.com/TakesxiSximada/homebrew-tap ). You can
+install it using Homebrew.
+
+---
+
 <img src="https://user-images.githubusercontent.com/106826/43119494-78be9224-8ecb-11e8-9d1a-9fc6f3014b91.png" width="300" alt="API Sprout"/>
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/danielgtaylor/apisprout)](https://goreportcard.com/report/github.com/danielgtaylor/apisprout) [![Build Status](https://travis-ci.org/danielgtaylor/apisprout.svg?branch=master)](https://travis-ci.org/danielgtaylor/apisprout) [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/danielgtaylor/apisprout.svg)](https://github.com/danielgtaylor/apisprout/releases) [![Docker Pulls](https://img.shields.io/docker/pulls/danielgtaylor/apisprout.svg)](https://hub.docker.com/r/danielgtaylor/apisprout/)
